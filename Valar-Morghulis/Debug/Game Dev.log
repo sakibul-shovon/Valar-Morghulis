@@ -1,0 +1,11 @@
+﻿Build started 18/3/2024 5:06:32 pm.
+     1>Project "C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Game Dev.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Debug\Game Dev.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Debug\Game Dev.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Debug\Game Dev.lib" /MACHINE:X86 /SAFESEH:NO Debug\iMain.obj
+         Debug\screen.obj
+         Game Dev.vcxproj -> C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Debug\Game Dev.exe
+     1>Done Building Project "C:\Users\Rider\Desktop\Valar-Morghulis\Valar-Morghulis\Game Dev.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.38
